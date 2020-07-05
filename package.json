@@ -1,0 +1,19 @@
+{
+  "name": "node.js-noteapp",
+  "version": "1.0.0",
+  "description": "\"# Notes-App\"",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinghaoh/Notes-App.git"
+  },
+  "author": "Chinghao Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinghaoh/Notes-App/issues"
+  },
+  "homepage": "https://github.com/chinghaoh/Notes-App#readme"
+}
